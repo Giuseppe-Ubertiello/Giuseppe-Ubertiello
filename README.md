@@ -1,6 +1,6 @@
 ## 📊 Language Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe-Ubertiello&layout=compact&langs_count=8)
 <!--
 **Giuseppe-Ubertiello/Giuseppe-Ubertiello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
