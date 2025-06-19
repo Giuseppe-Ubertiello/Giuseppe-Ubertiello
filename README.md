@@ -1,4 +1,4 @@
-## 📊 Language Statistics
+## 📊 Statistics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe-Ubertiello&layout=compact&langs_count=8)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giuseppe-Ubertiello&show_icons=true&theme=default)
